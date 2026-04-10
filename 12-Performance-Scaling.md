@@ -1,4 +1,4 @@
-## ⚡ 11. Performance & Scaling (For real-world systems)
+## ⚡ 12. Performance & Scaling (For real-world systems)
 
 A RAG system can look excellent in prototype demos and still fail in production once traffic, corpus size, and cost constraints show up together.
 
