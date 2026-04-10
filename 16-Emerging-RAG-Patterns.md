@@ -1,4 +1,4 @@
-## 🧠 15. Cutting-edge Topics (Optional but powerful)
+## 🧠 16. Emerging RAG Patterns (Optional but powerful)
 
 Once you understand core RAG architecture, these advanced topics help you move from "good retrieval system" to "adaptive intelligence platform."
 
