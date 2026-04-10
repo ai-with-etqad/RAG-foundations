@@ -1,4 +1,4 @@
-## 🏗️ 13. Production System Design (Interview gold for real deployments)
+## 🏗️ 14. Production System Design (Interview gold for real deployments)
 
 Prototype RAG systems answer a few curated questions well.  
 Production RAG systems survive noisy users, traffic spikes, partial outages, schema drift, model changes, and strict SLAs without silently degrading quality.
