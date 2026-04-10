@@ -1,4 +1,4 @@
-## 🧩 16. Types of RAG (Top 4)
+## 🧩 11. Types of RAG (Top 4)
 
 As RAG systems evolve from prototypes to production, one major realization appears quickly:
 
