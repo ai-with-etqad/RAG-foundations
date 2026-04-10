@@ -1,4 +1,4 @@
-## 📈 14. Real-world Problems to Practice (Where theory becomes deployment skill)
+## 📈 15. Real-world Problems to Practice (Where theory becomes deployment skill)
 
 Learning RAG concepts is necessary, but practical strength comes from solving messy, domain-specific problems where data quality, scale, and user intent are imperfect.
 
