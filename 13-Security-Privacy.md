@@ -1,4 +1,4 @@
-## 🔐 12. Security & Privacy (Critical for production trust)
+## 🔐 13. Security & Privacy (Critical for production trust)
 
 RAG systems do not only answer questions; they move sensitive data through multiple stages:
 
